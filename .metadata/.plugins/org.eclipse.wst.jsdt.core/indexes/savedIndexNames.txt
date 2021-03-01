@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+C:\src\TestWebApp_Spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-975697712.index
-239507276.index
-1339867419.index
-1696064574.index
-3997851535.index
